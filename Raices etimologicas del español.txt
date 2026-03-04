@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Raices Etimologicas Del Español</title>
+</head>
+<body>
+
+    <h1>Raices Etimologicas Del Español</h1>
+
+    <p>
+​Las raíces etimológicas son la base fundamental para comprender el origen y la evolución de nuestro idioma.A través de su estudio, podemos descubrir el significado profundo de las palabras analizando sus componentes.Esta materia nos permite ampliar nuestro vocabulario de forma exponencial al reconocer prefijos y sufijos,Conocer la etimología de un término nos ayuda a escribir con mayor precisión y evitar errores ortográficos.Es una herramienta esencial para los estudiantes de ciencias y medicina donde el lenguaje es muy técnico.
+Al estudiar las raíces, entendemos que las palabras son como seres vivos que han viajado por el tiempo.El latín y el griego aportan la gran mayoría de las palabras que utilizamos diariamente en el español.Esta disciplina no solo enseña gramática, sino que nos conecta con la historia de civilizaciones antiguas.Es fascinante ver cómo una sola raíz puede generar decenas de palabras con significados relacionados.En conclusión, las raíces etimológicas son la llave maestra para dominar cualquier área del conocimiento.. 
+
+</p>
+
+    <center>
+        <img src="descarga83.jpg" width="300">
+    </center>
+
+    <center>
+  <a href="QQGE_Tarea5_Equip18.html">Regresar al menú </a>
+  </center>
+
+</body>
+</html>

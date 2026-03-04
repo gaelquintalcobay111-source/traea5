@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Conciencia Historica</title>
+</head>
+<body>
+
+    <h1>Conciencia Histórica</h1>
+
+    <p>
+La historia es una materia muy importante porque nos permite conocer los acontecimientos más relevantes del pasado y entender cómo han influido en la sociedad actual. A través de su estudio aprendemos sobre civilizaciones antiguas, guerras, revoluciones y cambios sociales que marcaron el rumbo de los países. También nos ayuda a comprender el origen de nuestras costumbres, tradiciones y cultura. La historia explica cómo evolucionaron los gobiernos, las leyes y la economía a lo largo del tiempo. Además, nos permite conocer personajes importantes que dejaron huella en el mundo con sus acciones. Estudiar historia fomenta el pensamiento crítico, ya que analizamos causas y consecuencias de los hechos. Nos enseña a reflexionar sobre los errores del pasado para no repetirlos en el presente. También fortalece nuestra identidad y el sentido de pertenencia a una nación. Gracias a la historia podemos entender mejor la realidad actual y valorar los cambios que han ocurrido con el paso del tiempo
+
+  </p>
+
+    <center>
+        <img src="images00.jpg" width="300">
+    </center>
+
+    <br>
+    <a href="tarea3.html">Regresar a Tarea 3</a>
+
+</body>
+</html>
